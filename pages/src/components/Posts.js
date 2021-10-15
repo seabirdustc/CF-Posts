@@ -16,6 +16,7 @@ const Posts = () => {
     );
     const postsResp = await resp.json();
     const parsedPosts = postsResp.map((str) => JSON.parse(str));
+    parsedPosts.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
     setPosts(parsedPosts);
   };
 
