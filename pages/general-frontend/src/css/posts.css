@@ -1,0 +1,22 @@
+.posts_grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin-top: 3rem;
+}
+
+.post_card {
+    margin: 1rem;
+    flex-basis: 45%;
+    padding: 1.5rem;
+    text-align: center;
+    color: inherit;
+    text-decoration: none;
+    border-radius: 10px;
+    min-width: 800px;
+    -webkit-transition: color .15s ease,border-color .15s ease;
+    -moz-transition: color .15s ease,border-color .15s ease;
+    transition: color .15s ease,border-color .15s ease;
+}
