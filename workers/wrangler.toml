@@ -1,0 +1,12 @@
+name = "general-worker"
+type = "webpack"
+
+account_id = "c45ff6203eda9c7ecc566e814187a8e1"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-10-15"
+kv_namespaces = [
+         { binding = "POSTS_KV", id = "4ef7f3c1494f48a5810280c6b023ef26", preview_id = "4ef7f3c1494f48a5810280c6b023ef26" }
+]
+

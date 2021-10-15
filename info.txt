@@ -2,5 +2,5 @@ Git Credentials:
 Username: Ps4fo5Q17HgrpwIITsjNkD4j2D
 Password: JbuvJqx6
 
-Workers URL: https://general-worker.yuxuanchen.workers.dev
-Pages URL:
+Workers URL: https://general-worker.yuxuanchen.workers.dev/
+Pages URL: https://cf-posts.pages.dev/
